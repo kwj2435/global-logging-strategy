@@ -1,4 +1,4 @@
-## Logging, Exception 처리 전략 정리 및 예시 코드
+## Logging, Exception 처리 전략 정리 및 샘플 코드
 
 ---
 ### Logging 처리 전략
