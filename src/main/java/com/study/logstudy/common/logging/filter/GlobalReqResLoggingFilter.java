@@ -1,4 +1,4 @@
-package com.study.logstudy.common.filter;
+package com.study.logstudy.common.logging.filter;
 
 import jakarta.servlet.Filter;
 import jakarta.servlet.FilterChain;
